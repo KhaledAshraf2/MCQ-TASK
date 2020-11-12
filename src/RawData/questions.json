@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "who is the responsbile for killing you?",
+        "answer": "Solution C",
+        "choices": [
+            "Solution A",
+            "Solution B",
+            "Solution C",
+            "Solution D"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Who Are You?",
+        "answer": "Solution A",
+        "choices": [
+            "Solution A",
+            "Solution B",
+            "Solution C",
+            "Solution D"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "where are you now?!",
+        "answer": "Solution D",
+        "choices": [
+            "Solution A",
+            "Solution B",
+            "Solution C",
+            "Solution D"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What are you doing?",
+        "answer": "Solution B",
+        "choices": [
+            "Solution A",
+            "Solution B",
+            "Solution C",
+            "Solution D"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Are you going to do anything tomorrow?",
+        "answer": "Solution C",
+        "choices": [
+            "Solution A",
+            "Solution B",
+            "Solution C",
+            "Solution D"
+        ]
+    }
+]
